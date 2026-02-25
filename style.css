@@ -1,4 +1,10 @@
- body(
-     font-family: Arial, Helvetica, sans-serif;
-     backgroud-color:    rgb(226, 127, 45):
- )
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(247, 88, 247, 0.418);
+}
+
+div{
+   background-color: rgb(#00ffbf, rgb(144, 255, 150), rgb(109, 176, 240));
+}
+
+
